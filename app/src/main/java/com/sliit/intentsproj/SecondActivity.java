@@ -41,6 +41,7 @@ public class SecondActivity extends AppCompatActivity {
         int sum = number1 + number2;
         TextView textView = (TextView)findViewById(R.id.answer);
         textView.setText(String.valueOf(sum));
+
     }
     public void onMinus(View view){
         Context context = getApplicationContext();
