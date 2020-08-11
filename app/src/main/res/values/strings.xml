@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My application</string>
+    <string name="Num1">Number 1</string>
+    <string name="Num2">Number 2</string>
+    <string name="Button">OK</string>
+    <string name="PLUS">+</string>
+    <string name="MINU">-</string>
+    <string name="MULTI">*</string>
+    <string name="DIVI">/</string>
+</resources>
